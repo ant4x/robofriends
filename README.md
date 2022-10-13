@@ -1,4 +1,5 @@
 Have some fun! Search for your best robofriend.
+*Created using React.js*
 
 For running the project in your local environment:
 
@@ -8,5 +9,5 @@ For running the project in your local environment:
 
 OR...
 
-***TRY IT HERE***
+**TRY IT HERE:**
 https://ant4x.github.io/robofriends/
