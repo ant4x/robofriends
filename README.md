@@ -1,5 +1,5 @@
 Have some fun! Search for your best robofriend.
-*Created using React.js*
+*Made with React.js*
 
 For running the project in your local environment:
 
