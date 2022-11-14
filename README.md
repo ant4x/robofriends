@@ -11,3 +11,5 @@ OR...
 
 **TRY IT HERE:**
 https://ant4x.github.io/robofriends/
+
+## Please see a new version of this app here > https://github.com/ant4x/monster-rolodex
